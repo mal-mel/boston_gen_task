@@ -1,0 +1,15 @@
+{
+  "database": {
+    "user": "root",
+    "password": "admin",
+    "host": "0.0.0.0",
+    "port": 3305,
+    "database": "boston_gen",
+    "buffered": true,
+    "charset": "utf8mb4",
+    "collation": "utf8mb4_unicode_ci",
+    "use_unicode": true,
+    "autocommit": true,
+    "time_zone": "+03:00"
+  }
+}
