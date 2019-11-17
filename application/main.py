@@ -16,7 +16,7 @@ app.config.update({
     "MAIL_USE_TLS": False,
     "MAIL_USE_SSL": True,
     "MAIL_USERNAME": '<your mail>',
-    "MAIL_PASSWORD": 'your password'
+    "MAIL_PASSWORD": '<your password>'
 })
 mail = Mail(app)
 db_obj = DBInterface()
